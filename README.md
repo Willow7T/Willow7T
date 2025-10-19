@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thaw Zin Lin Myat(William)
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning MSc DataScience
+- 👀 I’m interested in Data Science and Artificial Intelligence. 
+- 🌱 I’m currently pursuing MSc DataScience at Kingston University London. 
 
 
 <!---
